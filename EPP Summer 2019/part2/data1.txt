@@ -1,0 +1,10 @@
+Kings_County 3.258
+Stanislaus_County 2.532
+Sutter_County 2.584
+Del_Norte_County 3.247
+Santa_Clara_County 1.888
+Sutter_County 3.267
+Tulare_County 3.852
+Stanislaus_County 3.767
+San_Joaquin_County 3.733
+Sutter_County 3.267
